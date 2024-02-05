@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/icons-icons-stories-mdx.79117357.chunk.css","mappings":"AAAA","sources":["webpack://frontend/./src/icons/icons.module.scss"],"sourcesContent":[".icon {\n  fill: currentColor;\n}\n\n.shapeIcon {\n  stroke: currentColor;\n}"],"names":[],"sourceRoot":""}
